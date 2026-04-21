@@ -33,14 +33,29 @@ Built nike.com.hk from scratch across AM, PM and UX. Designed the Nike Lucky Dra
 ## What I'm building now
 
 **[anitime.ca](https://anitime.ca)** · Toy & Collectibles (2025–present)  
-Built a full Shopify store including product architecture, integrations and lifecycle automation. Set up Klaviyo flows and segmentation. Running Meta and Google Ads while managing operations end to end.
+Built a full Shopify store from scratch including product architecture, integrations and lifecycle automation. Set up Klaviyo flows and segmentation, and run Meta and Google Ads while managing the operation end to end.
+
+→ View Customer Success case study: https://github.com/the-ooo/Customer-Success-Case---aniTime
 
 `Shopify` `Klaviyo` `Meta Ads` `Google Ads` `Make` `Canva`
+
+
+**[Uncle Wah Wah Website](https://unclewahwah.manus.space/)** · Rapid Launch Project  
+Built a fully functional service website within 30 minutes using AI tools (Manus) for a handyman business, designed as a rapid go-live solution to generate leads immediately.
+
+- Defined simple brand direction and messaging to target local homeowners  
+- Structured pages and content for SEO to capture local search intent  
+- Designed clear call-to-action with direct WhatsApp contact for instant conversion  
+- Focused on speed, clarity and usability instead of complex features  
+
+This project demonstrates my ability to quickly translate business needs into working solutions that drive real customer action.
+
 
 **[atacz.com](https://atacz.com)** · Sustainable Bag Brand (2023–2025)  
 Zero-to-one DTC build. Implemented Shopify, HubSpot CRM, lifecycle automation and membership logic. Supported retail launch and first North American licensed collaboration.
 
 `HubSpot` `Shopify` `Zapier` `Mailchimp`
+
 
 **Medical SaaS Startup** · HubSpot Setup (NDA)  
 Built CRM structure, pipeline and lifecycle foundation for an early-stage health-tech team.
