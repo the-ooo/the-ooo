@@ -1,95 +1,100 @@
 # Hi, I'm Theo 👋
 
-I do account management and growth, helping companies and their clients actually hit their numbers together.
+I help customers succeed with products by driving adoption, retention and revenue growth.
 
-Most recently I was running strategic accounts at Deliveroo in Hong Kong, owning 30 to 40% of platform GMV and working with the biggest chains on the platform like McDonald's, Shake Shack and Starbucks. Before that I was at Nike doing digital and brand, and Disney closing partnerships worth eight figures. These days I'm back in Vancouver freelancing for local brands, building out their websites and marketing foundations from scratch while I look for my next full-time role.
+Most recently I was running strategic accounts at Deliveroo in Hong Kong, owning 30–40% of platform GMV and working with enterprise partners like McDonald's, Shake Shack and Starbucks. Before that I was at Nike leading digital and CRM, and Disney closing eight-figure partnerships.
 
-📍 Vancouver, BC &nbsp;&nbsp; Open to hybrid or remote
+Now based in Vancouver, I freelance with local brands to build their ecommerce and customer systems from the ground up while looking for my next full-time role.
+
+📍 Vancouver, BC · Open to hybrid or remote
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Theodora%20Poon-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theodora-poon/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-theo.m.poon%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theo.m.poon@gmail.com)
 
-<br>
-
 ---
 
 ## Where I've been
 
-<br>
+**Deliveroo HK** · Head of Strategic Accounts  
+Owned 30–40% of platform GMV across enterprise partners doing $1M+ quarterly. Built JBP and QBR playbooks adopted across mid-market and SMB teams. Created real-time revenue and risk dashboards in Looker and Salesforce to drive incremental growth.
 
-**Deliveroo HK** &nbsp; Head of Strategic Accounts
+**Hong Kong Disneyland (The Walt Disney Company)** · Corporate Alliances Associate Manager  
+Closed a $10M+ partnership within two months. Managed global multi-year sponsorships with AIA, Standard Chartered, Pandora, Coca-Cola, Starbucks and Chow Tai Fook. Led the first retail partnership inside a Disney castle globally.
 
-Owned 30 to 40% of platform GMV including enterprise partners doing over US$1M quarterly. Built the JBP and QBR playbooks that got adopted company-wide across mid-market and SMB teams. Built real-time revenue and risk dashboards in Looker and Salesforce to track performance and drive incremental GMV.
+**Nike HK** · Digital Supervisor → Brand Assistant Manager  
+Owned nike.com.hk end to end, including CRM and membership programs. Led omnichannel GTM for Nike Women and Training. Played a key role in migrating local systems to Nike’s global platform, aligning fragmented user data across multiple apps.
 
-<br>
-
-**Hong Kong Disneyland (The Walt Disney Company)** &nbsp; Corporate Alliances Associate Manager
-
-Closed a US$10M+ partnership in my first two months. Managed global multi-year sponsorships with AIA, Standard Chartered, Pandora, Coca-Cola, Starbucks and Chow Tai Fook. Led the first ever retail partnership inside a Disney castle globally.
-
-<br>
-
-**Nike HK** &nbsp; Digital Supervisor then Brand Assistant Manager
-
-Ran nike.com.hk end to end, owned CRM and membership programs, and led omnichannel GTM for Nike Women and Nike Training. Also helped lead the migration from our locally-built membership system to Nike's global platform, which meant untangling years of user data across multiple Nike apps including Training Club, the running app and SNKRS. Before Slack we had a dedicated portal just to track global platform changes. It was complex and a great lesson in what real data migration looks like when users are already on the other end.
-
-<br>
-
-**Razorfish** &nbsp; Account Manager / Project Manager
-
-Built nike.com.hk from scratch as the AM, PM and UX lead, working with a China-based vendor at a time when the HK team didn't have access to Nike's global platform. Also designed the Nike Lucky Draw UX framework and winner flow system. Hong Kong built it first and it was later adapted by Nike globally. If you've ever entered a Nike draw, that's where it started. People were genuinely calling me to ask how to win the shoes.
-
-<br>
+**Razorfish** · Account Manager / Project Manager  
+Built nike.com.hk from scratch across AM, PM and UX. Designed the Nike Lucky Draw system later adopted globally. Early experience managing cross-market teams and complex product rollouts.
 
 ---
 
 ## What I'm building now
 
-<br>
-
-**[anitime.ca](https://anitime.ca)** &nbsp; Toy and collectibles shop (2025 to present)
-
-Built the full Shopify store from scratch including theme, product structure and all app integrations. Set up Klaviyo with lifecycle automations, segmentation and a campaign calendar. Running Meta and Google Ads and managing the whole operation end to end.
+**[anitime.ca](https://anitime.ca)** · Toy & Collectibles (2025–present)  
+Built a full Shopify store including product architecture, integrations and lifecycle automation. Set up Klaviyo flows and segmentation. Running Meta and Google Ads while managing operations end to end.
 
 `Shopify` `Klaviyo` `Meta Ads` `Google Ads` `Make` `Canva`
 
-<br>
-
-**[atacz.com](https://atacz.com)** &nbsp; Sustainable bag brand (2023 to 2025)
-
-Zero to one build for a DTC brand in Vancouver. Built their Shopify store, HubSpot CRM, Zapier automations, lifecycle email and SMS, membership logic and customer data architecture. Also helped launch their first physical retail store at Richmond Centre and their first licensed North American collaboration with Miffy.
+**[atacz.com](https://atacz.com)** · Sustainable Bag Brand (2023–2025)  
+Zero-to-one DTC build. Implemented Shopify, HubSpot CRM, lifecycle automation and membership logic. Supported retail launch and first North American licensed collaboration.
 
 `HubSpot` `Shopify` `Zapier` `Mailchimp`
 
-<br>
-
-**Medical SaaS Startup** &nbsp; HubSpot Setup (NDA)
-
-Set up HubSpot CRM from scratch for an early-stage health-tech company, building the pipeline and foundational structure for their sales and CS team.
+**Medical SaaS Startup** · HubSpot Setup (NDA)  
+Built CRM structure, pipeline and lifecycle foundation for an early-stage health-tech team.
 
 `HubSpot` `Salesforce` `SaaS GTM`
 
-<br>
+---
+
+## How I Drive Customer Success
+
+I focus on making sure customers don’t just use products, but actually get results.
+
+### Onboarding → Adoption → Expansion
+- Set up the right foundation across tools, workflows and integrations  
+- Drive feature adoption through structured journeys  
+- Identify expansion opportunities tied to real business outcomes  
+
+### Revenue Ownership
+- Managed enterprise accounts contributing 30–40% of platform GMV  
+- Built JBP and QBR frameworks to align on growth  
+- Identified upsell opportunities based on performance signals  
+
+### Systems & Visibility
+- Built dashboards to track performance, risks and opportunities  
+- Structured CRM systems around real lifecycle stages  
+- Aligned internal teams and customers on shared metrics  
+
+### Proactive Management
+- Identified risks early through data and trends  
+- Drove regular check-ins and strategic reviews  
+- Focused on long-term retention and account growth  
 
 ---
 
 ## Tools
 
-**CRM and CS** &nbsp; `Salesforce` `HubSpot` `Klaviyo` `Lifecycle Automation` `Segmentation`
+**CRM & Customer Success**  
+`Salesforce` `HubSpot` `Klaviyo` `Lifecycle Automation` `Segmentation`
 
-**Analytics** &nbsp; `Looker` `Google Analytics GA4` `Performance Dashboards`
+**Analytics & Performance**  
+`Looker` `Google Analytics (GA4)` `Performance Dashboards`
 
-**Project and Collab** &nbsp; `ClickUp` `Monday.com` `Slack` `Jira` `Google Workspace`
+**Project & Collaboration**  
+`ClickUp` `Monday.com` `Slack` `Jira` `Google Workspace`
 
-**Ecommerce and Marketing** &nbsp; `Shopify` `Meta Ads` `Google Ads` `Mailchimp` `Make` `Zapier` `Canva`
-
-<br>
+**Ecommerce & Growth**  
+`Shopify` `Meta Ads` `Google Ads` `Mailchimp` `Make` `Zapier` `Canva`
 
 ---
 
 ## What I'm looking for
 
-CSM roles at a SaaS company where customer success is actually tied to revenue, not just tickets and CSAT scores. I've owned NRR and expansion targets, built playbooks and dashboards from scratch, and worked with enterprise clients at every stage from onboarding to multi-year renewal. That's the kind of work I want to get back to.
+Customer Success roles at SaaS companies where success is tied to retention, expansion and revenue, not just support metrics.
 
-If that sounds like your team, let's talk.
+I’ve owned NRR, built playbooks, and worked with enterprise clients from onboarding through multi-year renewal. That’s the kind of work I’m looking to get back to.
+
+If that sounds like your team, let’s talk.
